@@ -458,7 +458,7 @@ app.get('/', (req, res) => {
 
 // 啟動服務器
 app.listen(PORT, () => {
-    console.log(`🚀 試卷網站後端運行於 http://localhost:${PORT}`);
+    console.log(`🚀 試卷網站運行於 Render 雲端平台`);
     console.log('📂 上傳資料夾:', uploadsDir);
     console.log('🗄️ 資料庫檔案: exam_papers.db');
     console.log('👤 預設管理員: admin / admin123');
