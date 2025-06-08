@@ -1,0 +1,4 @@
+node_modules/
+exam_papers.db
+uploads/
+.env
